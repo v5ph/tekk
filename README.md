@@ -1,4 +1,4 @@
-# Tekk - AI Copilot for Scientific and Financial Research
+# An AI Copilot for Scientific and Financial Research
 
 Tekk is a production-ready AutoML web platform that enables users to upload datasets, describe analysis goals in natural language, and automatically train machine learning models with AI-generated insights.
 
